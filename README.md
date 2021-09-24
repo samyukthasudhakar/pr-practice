@@ -14,4 +14,4 @@ This pull request template helps you complete an application to the **Class of 2
 
 Edited by Tahir
 
-I'm making a change to raise a PR - sam
+I'm making a change to raise a PR
